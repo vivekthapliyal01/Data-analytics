@@ -21,5 +21,6 @@ Questions(KPIs)
 - Dashboard interection <a href= "https://github.com/vivekthapliyal01/Data-analytics/blob/main/Screenshot%202025-07-15%20193413.png"><View Dashboard </a>
 
 ## Dashboard 
-![Uploading Screenshot 2025-07-15 193413.png…]()
+<img width="955" height="582" alt="Screenshot 2025-07-15 193413" src="https://github.com/user-attachments/assets/1acc954b-83bf-4e93-b15d-b2bf6a3eb881" />
+
 
