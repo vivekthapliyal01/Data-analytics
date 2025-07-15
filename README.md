@@ -23,4 +23,10 @@ Questions(KPIs)
 ## Dashboard 
 <img width="955" height="582" alt="Screenshot 2025-07-15 193413" src="https://github.com/user-attachments/assets/1acc954b-83bf-4e93-b15d-b2bf6a3eb881" />
 
+## Project summary
+This project presents a bike sales analytics dashboard that uncovers key business insights. It highlights top-selling models and brands, reveals a significant shift toward electric bikes, and pinpoints high-demand regions like West Bengal, Gujarat, and Maharashtra. The analysis shows how prices vary across city tiers, compares original and resale values to understand depreciation, and examines manufacturing year trends and seller types. These insights help drive data-backed decisions on pricing, inventory, and market strategy.
+
+## Conclusion
+This analysis provides clear visibility into sales trends, regional demand, and pricing dynamics in the bike market. It underscores the growing popularity of electric bikes, highlights key states driving sales, and reveals how brand and city factors impact pricing and depreciation. These insights enable better strategic decisions for inventory planning, targeted marketing, and optimizing revenue opportunities.
+
 
